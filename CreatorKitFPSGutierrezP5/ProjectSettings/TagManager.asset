@@ -13,12 +13,12 @@ TagManager:
   - UI
   - 
   - 
-  - Collectable
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Weapon
+  - Target
+  - Projectile
+  - Player
+  - PlayerCollisionOnly
   - 
   - 
   - 
